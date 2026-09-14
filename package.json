@@ -12,5 +12,9 @@
   "dependencies": {
     "dotenv": "^17.4.2",
     "ws": "^8.21.3"
+  },
+  "devDependencies": {
+    "pm2": "^7.0.4",
+    "wscat": "^6.1.0"
   }
 }
